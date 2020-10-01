@@ -1,3 +1,5 @@
+#tapisawesome
+
 require 'rake'
 require 'rake/rdoctask'
 require 'yaml'
